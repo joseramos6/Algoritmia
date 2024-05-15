@@ -46,9 +46,9 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 - Para (for)
 
-- Funciones y procedimientos
-
 - Vectores y matrices
+
+- Funciones y procedimientos
 
 ## 🛠 Instalaciones 🛠
 
