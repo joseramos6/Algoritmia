@@ -1,6 +1,6 @@
 Algoritmo NumeroDosDigitos
 	//Verificar que un numero sea de dos digitos
-	Imprimir 'Ingresa un numero de dos digitos: '
+	Escribir 'Ingresa un numero de dos digitos: '
 	Leer numero
 	expresion_logica = numero >= 10 Y numero <= 99
 	// o a > 9 Y a < 100
