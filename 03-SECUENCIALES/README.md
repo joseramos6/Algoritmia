@@ -1,3 +1,5 @@
+![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 ### 🛠 ✅ 🗂️ Ejercicios Secuenciales
 
 1 - Realice un algoritmo que solicite dos números al usuario y muestre en la consola el resultado de la suma, resta, multiplicación y división entre ambos números.
@@ -37,3 +39,8 @@ perímetro del círculo en base a dicho parámetro.
 de horas, minutos y segundos a los que equivalen.
 
 10 - Realice un algoritmo que solicite al usuario un número de 3 dígitos y realice la suma de los 3 dígitos.
+
+
+## 👨🏻‍💻 Instructor 👨🏻‍💻
+
+![Logo](https://avatars.githubusercontent.com/u/81438413?s=48&v=4) [@joseramos6](https://github.com/joseramos6)
