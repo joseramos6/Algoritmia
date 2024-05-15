@@ -2,7 +2,7 @@
 
 # Bienvenidos Aprendices! 👋🏻
 
-🧠 Vamos aprender los **fundamentos de la programación** y a desarrollar tu lógica de programación desde cero ✅ recuerda que es un contenido 👨🏻‍💻 educativo ✅ **gratuito** ✅
+🧠 Vamos aprender los **fundamentos de la programación** y a desarrollar tu lógica de programación desde cero ✅ recuerda que es un contenido 👨🏻‍💻 educativo ✅ **gratuito** ✅ y es muy importante leer la siguiente ℹ️ información con el objetivo de atender las indicaciones y así desarrollar con éxito el presente material educativo 👨🏻‍💻
 
 ✅ No necesitas ningún tipo de experiencia ✅
 
@@ -10,7 +10,7 @@
 
 Los fundamentos y la lógica de programación son cruciales para comenzar tu carrera como desarrollador. **Un conocimiento sólido de los fundamentos de la programación será de gran utilidad para aprender cualquier lenguaje de programación,** y una buena lógica de programación servirá para abordar cualquier problema de forma adecuado, resolviéndolo de una forma clara, comprensiva y eficiente.
 
-## 🛠 Competencias
+## 🛠 Competencias a desarrollar 👨🏻‍💻
 
 - Aspectos básicos de la programación datos, variables, operadores, etc
 
@@ -24,9 +24,35 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 - Procedimientos y funciones
 
+## 👨🏻‍💻 Contenido 📚
+
+- Introducción a la programación
+
+- Variables y tipos de datos
+
+- Operadores aritméticos, relacionales y lógicos
+
+- Estructuras de decisión
+
+- Si - Entonces (también conocida como if - else)
+
+- Segun (switch)
+
+- Estructuras de repetición
+
+- Mientras (while)
+
+- Repetir (do - while)
+
+- Para (for)
+
+- Funciones y procedimientos
+
+- Vectores y matrices
+
 ## 👨🏻‍💻 Lecciones 📚🧠
 
-✅ Vamos a realizar las siguientes lecciones 👨🏻‍💻🚀
+🚨🔔 ✅ Como 1️⃣ primer paso vamos a realizar las siguientes lecciones 👨🏻‍💻🚀
 
 - [Nivel 01 🚀 Algoritmia](https://quizizz.com/join?gc=86468457)
 
@@ -59,32 +85,6 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 - [Nivel 15 🚀 Algoritmia](https://quizizz.com/join?gc=85514138)
 
 - [Nivel 16 🚀 Algoritmia](https://quizizz.com/join?gc=86576100)
-
-## 👨🏻‍💻 Contenido 📚
-
-- Introducción a la programación
-
-- Variables y tipos de datos
-
-- Operadores aritméticos, relacionales y lógicos
-
-- Estructuras de decisión
-
-- Si - Entonces (también conocida como if - else)
-
-- Segun (switch)
-
-- Estructuras de repetición
-
-- Mientras (while)
-
-- Repetir (do - while)
-
-- Para (for)
-
-- Funciones y procedimientos
-
-- Vectores y matrices
 
 ## ✅ Resultados ✅
 
