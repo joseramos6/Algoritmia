@@ -1,3 +1,6 @@
+
+![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 ### 🛠 ✅ 🗂️ Ejercicios Ciclos
 
 1 - Realice un algoritmo que solicite una contraseña al usuario de manera repetitiva hasta que el usuario la acierte o falle 3 veces. La contraseña real estará almacenada en una variable del programa. Si el usuario acierta, se mostrará un mensaje de "Acceso permitido", pero si falla 3 veces, se mostrará un mensaje de "Cuenta bloqueada", y el programa finalizará. Cada vez que falle, se mostrará un mensaje en el que se digan los intentos restantes hasta que la cuenta se bloquee.
@@ -33,3 +36,8 @@ El mcm se calcula con la siguiente expresión: mcm = (a·b) / MCD
 
 Para las operaciones únicamente se considerarán números de 1 a 9, y para la división únicamente se
 considerará la parte entera.
+
+
+## 👨🏻‍💻 Instructor 👨🏻‍💻
+
+![Logo](https://avatars.githubusercontent.com/u/81438413?s=48&v=4) [@joseramos6](https://github.com/joseramos6)
