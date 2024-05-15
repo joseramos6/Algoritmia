@@ -1,6 +1,6 @@
 Algoritmo OpcionesMenu
 	// Verificar si se proporciono una opcion del menu mostrado
-	Imprimir 'Seleccione una de estas opciones: '
+	Escribir 'Seleccione una de estas opciones: '
 	Imprimir '1. Sumar'
 	Imprimir '2. Multiplicar'
 	Imprimir '3. Salir'
