@@ -1,6 +1,18 @@
 
 ![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
+### 🚨🔔 ✅ Como 3️⃣ tercer paso vamos a realizar los ejercicios propuestos, en donde van a crear un repositorio en su cuenta de GitHub llamado ALGORITMIA organizado de la siguiente manera: 👨🏻‍💻🚀
+
+🌟 Ejemplo:
+
+✅ Nombre del reporisitorio: **ALGORITMIA**
+
+Creamos una carpeta donde vamos a ubicar los ejercicios solucionados:
+
+- 🗂️ Condicionales
+
+⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻
+
 ### 🛠 ✅ 🗂️ Ejercicios Condicionales
 
 1 - Realice un algoritmo que calcule el precio final de un artículo. El usuario introducirá el precio sin descuento, y su precio final tendrá un descuento del 5% únicamente si su precio es superior a 40.
