@@ -26,7 +26,7 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 ✅ No se necesita ningún tipo de experiencia ✅
 
-- [Nivel 01 🚀 Algoritmia][https://quizizz.com/join?gc=86468457]
+- [Nivel 01 🚀 Algoritmia](https://quizizz.com/join?gc=86468457)
 
 - [Nivel 02 🚀 Algoritmia](https://quizizz.com/join?gc=87415292)
 
