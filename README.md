@@ -1,8 +1,8 @@
 ![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-# Hola Aprendices! 👋🏻
+# Bienvenidos Aprendices! 👋🏻
 
-🧠 Vamos aprender los **fundamentos de la programación** y desarrolla tu lógica de programación
+🧠 Vamos aprender los **fundamentos de la programación** y a desarrollar tu lógica de programación desde cero ✅ recuerda que es un contenido 👨🏻‍💻 educativo ✅ **gratuito** ✅
 
 ✅ No necesitas ningún tipo de experiencia ✅
 
