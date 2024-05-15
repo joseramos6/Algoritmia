@@ -114,11 +114,11 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 ## 🛠 Ejercicios 👨🏻‍💻
 
-### 🚨🔔 ✅ Como 3️⃣ tercer paso vamos a realizar los siguientes ejercicios, en donde van a crear un repositorio en su cuenta de GitHub llamado ALGORITMIA, organizado de la siguiente manera con la solución de cada uno de los ejercicios en el programa de PSEINT 👨🏻‍💻🚀
+### 🚨🔔 ✅ Como 3️⃣ tercer paso vamos a realizar los ejercicios propuestos, en donde van a crear un repositorio en su cuenta de GitHub llamado ALGORITMIA organizado de la siguiente manera, con la solución de cada uno de los ejercicios en el programa de PSEINT 👨🏻‍💻🚀
 
-Ejemplo:
+🌟 Ejemplo:
 
-Nombre del reporisitorio: **ALGORITMIA**
+✅ Nombre del reporisitorio: **ALGORITMIA**
 
 Creamos las carpetas donde ubicamos los ejercicios solucionados:
 
@@ -132,7 +132,9 @@ Creamos las carpetas donde ubicamos los ejercicios solucionados:
 
 ## ✅ Resultados ✅
 
-Al finalizar el presente contenido educativo, tendrás una base sólida de los aspectos fundamentales de la programación y los conceptos de codificación, además de saber solucionar cualquier problema de programación, gracias a la lógica de programación desarrollada.
+Al finalizar el presente contenido educativo, tendrás una base sólida de los aspectos fundamentales de la programación y los conceptos de codificación, además de saber solucionar cualquier problema de programación, gracias a la lógica de programación desarrollada. 👨🏻‍💻🚀 **Felicitaciones** 🚀👨🏻‍💻
+
+### ➡️ ➡️ ➡️ Proxima competencia **HTML** 👨🏻‍💻🚀
 
 ## 👨🏻‍💻 Instructor 👨🏻‍💻
 
