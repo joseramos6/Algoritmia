@@ -104,7 +104,7 @@ Creamos las carpetas donde vamos a ubicar los ejercicios solucionados:
 
 Al finalizar el presente contenido educativo, tendrás una base sólida de los aspectos fundamentales de la programación y los conceptos de codificación, además de saber solucionar cualquier problema de programación, gracias a la lógica de programación desarrollada. 👨🏻‍💻🚀 **Felicitaciones** 🚀👨🏻‍💻
 
-### ➡️ ➡️ ➡️ Proxima competencia **HTML** 👨🏻‍💻🚀
+### ✅➡️➡️➡️ 🚀👨🏻‍💻Proxima competencia **HTML y CSS** 👨🏻‍💻🚀⬅️⬅️⬅️✅
 
 ## 👨🏻‍💻 Instructor 👨🏻‍💻
 
