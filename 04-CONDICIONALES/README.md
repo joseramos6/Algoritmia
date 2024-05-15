@@ -1,3 +1,6 @@
+
+![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 ### 🛠 ✅ 🗂️ Ejercicios Condicionales
 
 1 - Realice un algoritmo que calcule el precio final de un artículo. El usuario introducirá el precio sin descuento, y su precio final tendrá un descuento del 5% únicamente si su precio es superior a 40.
@@ -25,3 +28,7 @@
 Escribe un algoritmo que compruebe si una persona está asegurada o no.
 
 10 - Realice un algoritmo que diga la cantidad mínima de billetes y monedas necesarios para obtener una cantidad de dinero (solo números enteros). Para que la cantidad de billetes sea mínima, el valor de los billetes debe ser el máximo posible. Los billetes serán de 100000, 50000, 20000, 10000, 5000, 2000 y 1000 Pesos; y las monedas únicamente de 500 pesos.
+
+## 👨🏻‍💻 Instructor 👨🏻‍💻
+
+![Logo](https://avatars.githubusercontent.com/u/81438413?s=48&v=4) [@joseramos6](https://github.com/joseramos6)
