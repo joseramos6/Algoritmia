@@ -104,7 +104,23 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 ## 🛠 Ejercicios 👨🏻‍💻
 
-### 🛠 ✅ Secuenciales
+### 🚨🔔 ✅ Como 3️⃣ tercer paso vamos a realizar los siguientes ejercicios, en donde van a crear un repositorio en su cuenta de GitHub llamado ALGORITMIA, organizado de la siguiente manera con la solución de cada uno de los ejercicios en el programa de PSEINT 👨🏻‍💻🚀
+
+Ejemplo:
+
+Nombre del reporisitorio: ALGORITMIA
+
+Creamos las carpetas donde ubicamos los ejercicios solucionados:
+
+- 🗂️ Secuenciales
+- 🗂️ Condicionales
+- 🗂️ Ciclos
+- 🗂️ Vectores
+- 🗂️ Matrices
+- 🗂️ Funciones
+- 🗂️ Bonus
+
+### 🛠 ✅ 🗂️ Secuenciales
 
 1 - Realice un algoritmo que solicite dos números al usuario y muestre en la consola el resultado de la suma, resta, multiplicación y división entre ambos números.
 
@@ -144,7 +160,7 @@ de horas, minutos y segundos a los que equivalen.
 
 10 - Realice un algoritmo que solicite al usuario un número de 3 dígitos y realice la suma de los 3 dígitos.
 
-### 🛠 ✅ Condicionales
+### 🛠 ✅ 🗂️ Condicionales
 
 1 - Realice un algoritmo que calcule el precio final de un artículo. El usuario introducirá el precio sin descuento, y su precio final tendrá un descuento del 5% únicamente si su precio es superior a 40.
 
@@ -172,7 +188,7 @@ Escribe un algoritmo que compruebe si una persona está asegurada o no.
 
 10 - Realice un algoritmo que diga la cantidad mínima de billetes y monedas necesarios para obtener una cantidad de dinero (solo números enteros). Para que la cantidad de billetes sea mínima, el valor de los billetes debe ser el máximo posible. Los billetes serán de 100000, 50000, 20000, 10000, 5000, 2000 y 1000 Pesos; y las monedas únicamente de 500 pesos.
 
-### 🛠 ✅ Ciclos
+### 🛠 ✅ 🗂️ Ciclos
 
 1 - Realice un algoritmo que solicite una contraseña al usuario de manera repetitiva hasta que el usuario la acierte o falle 3 veces. La contraseña real estará almacenada en una variable del programa. Si el usuario acierta, se mostrará un mensaje de "Acceso permitido", pero si falla 3 veces, se mostrará un mensaje de "Cuenta bloqueada", y el programa finalizará. Cada vez que falle, se mostrará un mensaje en el que se digan los intentos restantes hasta que la cuenta se bloquee.
 
@@ -208,7 +224,7 @@ El mcm se calcula con la siguiente expresión: mcm = (a·b) / MCD
 Para las operaciones únicamente se considerarán números de 1 a 9, y para la división únicamente se
 considerará la parte entera.
 
-### 🛠 ✅ Vectores
+### 🛠 ✅ 🗂️ Vectores
 
 1 - Define una función que calcule el valor medio de un vector numérico. La cantidad de elementos del vector puede variar.
 
@@ -245,7 +261,7 @@ y se aplica el mismo algoritmo que para el NIF.
 - Los elementos en posiciones impares serán mayores que los siguientes elementos
 - Los elementos en posiciones pares serán menores que los siguientes elementos
 
-### 🛠 ✅ Matrices
+### 🛠 ✅ 🗂️ Matrices
 
 1 - Realice un algoritmo que muestre la transpuesta de una matriz de cualquier tamaño.
 
@@ -273,7 +289,7 @@ Perderá el jugador que retire la última cerilla. Las cerillas estarán represe
 
 10 - Realice un algoritmo para jugar al "3 en raya". El tablero estará representado en una matriz.
 
-### 🛠 ✅ Funciones
+### 🛠 ✅ 🗂️ Funciones
 
 1 - Realice un algoritmo que escriba una secuencia de números mediante un procedimiento. El usuario introducirá cuantos números de la secuencia se mostrarán (n) y en base a qué número se definirá esa
 secuencia (m).
@@ -308,7 +324,7 @@ Los únicos valores de la secuencia que se conocen inicialmente son el primero y
 
 Las mayúsculas, espacios y tildes no se consideran para determinar si es un palíndromo o no.
 
-### 🛠 ✅ Bonus 🌟⭐️🌟
+### 🛠 ✅ 🗂️ Bonus 🌟⭐️🌟
 
 1 - Realice una función recursiva que sume los dígitos de un número.
 
