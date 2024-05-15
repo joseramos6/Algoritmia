@@ -1,3 +1,6 @@
+
+![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 ### 🛠 ✅ 🗂️ Ejercicios Matrices
 
 1 - Realice un algoritmo que muestre la transpuesta de una matriz de cualquier tamaño.
@@ -25,3 +28,9 @@ Utiliza una matriz que tenga en la primera fila el valor de los billetes, y en l
 Perderá el jugador que retire la última cerilla. Las cerillas estarán representadas en una matriz.
 
 10 - Realice un algoritmo para jugar al "3 en raya". El tablero estará representado en una matriz.
+
+
+## 👨🏻‍💻 Instructor 👨🏻‍💻
+
+![Logo](https://avatars.githubusercontent.com/u/81438413?s=48&v=4) [@joseramos6](https://github.com/joseramos6)
+
