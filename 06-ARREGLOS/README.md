@@ -1,3 +1,6 @@
+
+![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 ### 🛠 ✅ 🗂️ Ejercicios Vectores
 
 1 - Define una función que calcule el valor medio de un vector numérico. La cantidad de elementos del vector puede variar.
@@ -34,3 +37,8 @@ y se aplica el mismo algoritmo que para el NIF.
 
 - Los elementos en posiciones impares serán mayores que los siguientes elementos
 - Los elementos en posiciones pares serán menores que los siguientes elementos
+
+  
+## 👨🏻‍💻 Instructor 👨🏻‍💻
+
+![Logo](https://avatars.githubusercontent.com/u/81438413?s=48&v=4) [@joseramos6](https://github.com/joseramos6)
