@@ -52,7 +52,7 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 ## 👨🏻‍💻 Lecciones 📚🧠
 
-🚨🔔 ✅ Como 1️⃣ primer paso vamos a realizar las siguientes lecciones 👨🏻‍💻🚀
+### 🚨🔔 ✅ Como 1️⃣ primer paso vamos a realizar las siguientes lecciones 👨🏻‍💻🚀
 
 - [Nivel 01 🚀 Algoritmia](https://quizizz.com/join?gc=86468457)
 
@@ -85,6 +85,22 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 - [Nivel 15 🚀 Algoritmia](https://quizizz.com/join?gc=85514138)
 
 - [Nivel 16 🚀 Algoritmia](https://quizizz.com/join?gc=86576100)
+
+## Ejercicios Académicos
+
+### 🚨🔔 ✅ Como 2️⃣ segundo paso vamos a realizar los siguientes ejercicios académicos que se encuentran ubicados en la parte superior del presente repositorio 👨🏻‍💻🚀
+
+- 🗂️ 01-VARIABLES-TIPOS-DE-DATOS
+- 🗂️ 02-USO-OPERADORES
+- 🗂️ 03-SECUENCIALES
+- 🗂️ 04-CONDICIONALES
+- 🗂️ 05-CICLOS
+- 🗂️ 06-ARREGLOS
+- 🗂️ 07-MATRICES
+- 🗂️ 08-FUNCIONES
+- 🗂️ 09-FUNCIONES-INCORPORADAS
+
+✅ En los anterior ejercicios académicos se encuentran los comentarios del paso a paso con el objetivo de entender linea a linea.
 
 ## 🛠 Ejercicios 👨🏻‍💻
 
