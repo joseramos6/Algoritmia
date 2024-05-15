@@ -4,6 +4,8 @@
 
 🧠 Vamos aprender los **fundamentos de la programación** y desarrolla tu lógica de programación
 
+✅ No necesitas ningún tipo de experiencia ✅
+
 # 👨🏻‍💻 Algoritmia 👨🏻‍💻
 
 Los fundamentos y la lógica de programación son cruciales para comenzar tu carrera como desarrollador. **Un conocimiento sólido de los fundamentos de la programación será de gran utilidad para aprender cualquier lenguaje de programación,** y una buena lógica de programación servirá para abordar cualquier problema de forma adecuado, resolviéndolo de una forma clara, comprensiva y eficiente.
@@ -24,7 +26,7 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 ## 👨🏻‍💻 Lecciones 📚🧠
 
-✅ No se necesita ningún tipo de experiencia ✅
+✅ Vamos a realizar las siguientes lecciones 👨🏻‍💻🚀
 
 - [Nivel 01 🚀 Algoritmia](https://quizizz.com/join?gc=86468457)
 
@@ -84,7 +86,11 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 - Vectores y matrices
 
-## 🛠 Instalaciones
+## ✅ Resultados ✅
+
+Al finalizar el presente contenido educativo, tendrás una base sólida de los aspectos fundamentales de la programación y los conceptos de codificación, además de saber solucionar cualquier problema de programación, gracias a la lógica de programación desarrollada.
+
+## 🛠 Instalaciones 🛠
 
 Se requieren los siguientes programas:
 
