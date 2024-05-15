@@ -1,3 +1,6 @@
+
+![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 ### 🛠 ✅ 🗂️ Ejercicios Funciones
 
 1 - Realice un algoritmo que escriba una secuencia de números mediante un procedimiento. El usuario introducirá cuantos números de la secuencia se mostrarán (n) y en base a qué número se definirá esa
@@ -32,3 +35,9 @@ Los únicos valores de la secuencia que se conocen inicialmente son el primero y
 10 - Realice una función que determine si un texto es un palíndromo o no. Para que un texto sea un palíndromo, su lectura de izquierda a derecha o de derecha a izquierda debe ser igual.
 
 Las mayúsculas, espacios y tildes no se consideran para determinar si es un palíndromo o no.
+
+
+## 👨🏻‍💻 Instructor 👨🏻‍💻
+
+![Logo](https://avatars.githubusercontent.com/u/81438413?s=48&v=4) [@joseramos6](https://github.com/joseramos6)
+
