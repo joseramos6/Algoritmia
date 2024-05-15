@@ -64,21 +64,21 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 ### 🚨🔔 ✅ Como 1️⃣ primer paso vamos a realizar las siguientes lecciones que se encuentra ubicado en la carpeta 👨🏻‍💻🚀
 
-- 🗂️ 00 - Lecciones
+- [🗂️ 00 - Lecciones](https://github.com/joseramos6/Algoritmia/tree/main/00-LECCIONES)
 
 ## 👨🏻‍💻 Ejercicios Académicos 👨🏻‍💻
 
 ### 🚨🔔 ✅ Como 2️⃣ segundo paso vamos a realizar los siguientes ejercicios académicos que se encuentran ubicados en la parte superior del presente repositorio 👨🏻‍💻🚀
 
-- 🗂️ 01-VARIABLES-TIPOS-DE-DATOS
-- 🗂️ 02-USO-OPERADORES
-- 🗂️ 03-SECUENCIALES
-- 🗂️ 04-CONDICIONALES
-- 🗂️ 05-CICLOS
-- 🗂️ 06-ARREGLOS
-- 🗂️ 07-MATRICES
-- 🗂️ 08-FUNCIONES
-- 🗂️ 09-FUNCIONES-INCORPORADAS
+- [🗂️ 01-VARIABLES-TIPOS-DE-DATOS](https://github.com/joseramos6/Algoritmia/tree/main/01-VARIABLES-TIPOS-DE-DATOS)
+- [🗂️ 02-USO-OPERADORES](https://github.com/joseramos6/Algoritmia/tree/main/02-USO-OPERADORES)
+- [🗂️ 03-SECUENCIALES](https://github.com/joseramos6/Algoritmia/tree/main/03-SECUENCIALES)
+- [🗂️ 04-CONDICIONALES](https://github.com/joseramos6/Algoritmia/tree/main/04-CONDICIONALES)
+- [🗂️ 05-CICLOS](https://github.com/joseramos6/Algoritmia/tree/main/05-CICLOS)
+- [🗂️ 06-ARREGLOS](https://github.com/joseramos6/Algoritmia/tree/main/06-ARREGLOS)
+- [🗂️ 07-MATRICES](https://github.com/joseramos6/Algoritmia/tree/main/07-MATRICES)
+- [🗂️ 08-FUNCIONES](https://github.com/joseramos6/Algoritmia/tree/main/08-FUNCIONES)
+- [🗂️ 09-FUNCIONES-INCORPORADAS](https://github.com/joseramos6/Algoritmia/tree/main/09-FUNCIONES-INCORPORADAS)
 
 ✅ En los anterior ejercicios académicos se encuentran los comentarios del paso a paso con el objetivo de entender linea a linea.
 
