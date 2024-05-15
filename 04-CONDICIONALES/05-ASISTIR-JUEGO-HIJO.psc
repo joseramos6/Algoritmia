@@ -1,7 +1,7 @@
 Algoritmo AsistirJuegoHijo
-	Imprimir 'Tiene vacaciones? (Verdadero o Falso)'
+	Escribir 'Tiene vacaciones? (Verdadero o Falso)'
 	Leer vacaciones
-	Imprimir 'Es dia de descanso? (Verdadero o Falso)'
+	Escribir 'Es dia de descanso? (Verdadero o Falso)'
 	Leer dia_descanso
 	// Revisamos si puede asistir al juego del hijo
 	Si vacaciones O dia_descanso Entonces
