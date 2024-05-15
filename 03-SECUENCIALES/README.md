@@ -1,4 +1,4 @@
-### 🛠 ✅ 🗂️ Secuenciales
+### 🛠 ✅ 🗂️ Ejercicios Secuenciales
 
 1 - Realice un algoritmo que solicite dos números al usuario y muestre en la consola el resultado de la suma, resta, multiplicación y división entre ambos números.
 
