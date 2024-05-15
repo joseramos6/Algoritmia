@@ -1,5 +1,17 @@
 ![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
+### 🚨🔔 ✅ Como 3️⃣ tercer paso vamos a realizar los ejercicios propuestos, en donde van a crear un repositorio en su cuenta de GitHub llamado ALGORITMIA organizado de la siguiente manera: 👨🏻‍💻🚀
+
+🌟 Ejemplo:
+
+✅ Nombre del reporisitorio: **ALGORITMIA**
+
+Creamos una carpeta donde vamos a ubicar los ejercicios solucionados:
+
+- 🗂️ Secuenciales
+
+⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻
+
 ### 🛠 ✅ 🗂️ Ejercicios Secuenciales
 
 1 - Realice un algoritmo que solicite dos números al usuario y muestre en la consola el resultado de la suma, resta, multiplicación y división entre ambos números.
