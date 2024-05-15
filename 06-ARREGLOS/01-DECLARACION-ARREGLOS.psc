@@ -7,6 +7,4 @@ Algoritmo Arreglos
 	numeros_arreglo[0] = 13
 	numeros_arreglo[1] = 21
 	numeros_arreglo[4] = 62
-	
-	
 FinAlgoritmo

@@ -1,6 +1,6 @@
 Algoritmo EtapasVida
 	Definir mensaje Como Cadena
-	Imprimir 'Proporciona tu edad: '
+	Imprimir 'Ingresa tu edad: '
 	Leer edad
 	// Empezamos a procesar la edad con la etapa de vida respectiva
 	Si edad >= 0 Y edad <= 10 Entonces

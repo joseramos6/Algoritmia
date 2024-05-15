@@ -11,5 +11,4 @@ Algoritmo EjercicioOperadoresAritmeticos
 	Imprimir 'Division: ', valor1 / valor2
 	Imprimir 'Modulo (residuo division): ' valor1 % valor2
 	Imprimir 'Potencia: ', valor1^valor2
-	
 FinAlgoritmo

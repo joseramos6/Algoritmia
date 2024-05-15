@@ -1,11 +1,11 @@
 Algoritmo IntroducirValoresArreglo
 	// Programa que pedira al usuario n valores
 	Definir numero_elementos, numeros Como Entero
-	// Solicitamos cuantos numeros queremos proporcionar
-	Imprimir 'Proporciona el tamaño del arreglo: '
+	// Solicitamos cuantos numeros queremos ingresar
+	Imprimir 'Ingresa el tamaÃ±o del arreglo: '
 	Leer numero_elementos 
 	// Podemos validar que el valor sea mayor que cero (no puede ser 0 o negativo)
-	// Creamos nuestro arreglo de la cantidad de elementos proporcionado
+	// Creamos nuestro arreglo de la cantidad de elementos ingresado
 	Dimension numeros[numero_elementos]
 	// Solicitamos las numeros al usuario
 	// recordemos que el indice de un arreglo inicia en 0

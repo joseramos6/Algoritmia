@@ -1,7 +1,7 @@
 Algoritmo EjercicioMenuOperaciones
-	Imprimir 'Proporcione un numero1: '
+	Imprimir 'Ingresa un numero1: '
 	Leer numero1
-	Imprimir 'Proporcione un numero2: '
+	Imprimir 'Ingresa un numero2: '
 	Leer numero2
 	//Menu de Opciones
 	Imprimir 'Seleccione una opcion del Menu: '

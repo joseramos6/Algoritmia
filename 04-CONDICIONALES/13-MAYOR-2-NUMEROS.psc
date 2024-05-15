@@ -1,7 +1,7 @@
 Algoritmo ElMayorDeDosNumeros
-	Imprimir 'Proporciona el Numero 1: '
+	Imprimir 'Ingresa el Numero 1: '
 	Leer numero_1
-	Imprimir 'Proporciona el Numero 2: '
+	Imprimir 'Ingresa el Numero 2: '
 	Leer numero_2
 	//Revisamos el mayor de los dos numeros
 	Si numero_1 > numero_2 Entonces

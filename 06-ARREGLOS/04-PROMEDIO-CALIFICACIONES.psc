@@ -1,12 +1,12 @@
 Algoritmo CalificacionesPromedio
 	Definir numero_elementos, calificaciones Como Entero
-	Imprimir 'Proporciona el tamaño del arreglo: '
+	Imprimir 'Ingresa el tamaÃ±o del arreglo: '
 	Leer numero_elementos
 	// Creamos el arreglo
 	Dimension calificaciones[numero_elementos]
 	// Solicitamos las calificaciones al usuario
 	Para i = 0 Hasta numero_elementos - 1 Hacer
-		Imprimir 'Proporciona la calificacion ', i + 1, ': '
+		Imprimir 'Ingresa la calificacion ', i + 1, ': '
 		Leer calificaciones[i]
 	FinPara
 	// Mostramos los elementos

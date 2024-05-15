@@ -15,6 +15,4 @@ Algoritmo OperadoresLogicos
 	c = a O b 
 	Imprimir 'Expresion evaluar (O): ', a, ' O ', b
 	Imprimir 'Resultado Operador O (Or): ', c
-	
-	
 FinAlgoritmo

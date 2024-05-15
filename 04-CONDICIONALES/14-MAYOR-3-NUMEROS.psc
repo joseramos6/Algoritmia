@@ -1,9 +1,9 @@
 Algoritmo ElMayorDeTresNumeros
-	Imprimir 'Proporciona el Numero 1: '
+	Imprimir 'Ingresa el Numero 1: '
 	Leer numero_1
-	Imprimir 'Proporciona el Numero 2: '
+	Imprimir 'Ingresa el Numero 2: '
 	Leer numero_2
-	Imprimir 'Proporciona el Numero 3: '
+	Imprimir 'Ingresa el Numero 3: '
 	Leer numero_3
 	//Revisamos el mayor de los tres numeros
 	Si numero_1 > numero_2 Y numero_1 > numero_3  Entonces

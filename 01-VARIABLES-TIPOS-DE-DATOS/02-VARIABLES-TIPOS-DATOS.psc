@@ -5,5 +5,4 @@ Algoritmo Variables
 	mi_numero = 10
 	// 3. Imprimimos la variable
 	Imprimir "Mi numero es: ", mi_numero
-	
 FinAlgoritmo

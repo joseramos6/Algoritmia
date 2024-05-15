@@ -9,5 +9,4 @@ Algoritmo OperadoresLogicos
 	c = a Y b
 	Imprimir 'Expresion evaluar (Y): ', a, ' Y ', b
 	Imprimir 'Resultado Operador Y (AND): ', c
-	
 FinAlgoritmo

@@ -1,6 +1,6 @@
 Algoritmo ValorAbsoluto
-	////	Si es un numero positivo será positivo
-	////	Pero si es un número negativo sera positivo
+	////	Si es un numero positivo serÃ¡ positivo
+	////	Pero si es un nÃºmero negativo sera positivo
 	Imprimir 'Ingrese un valor numerico: '
 	Leer _numero
 	_numero_abs = abs(_numero)

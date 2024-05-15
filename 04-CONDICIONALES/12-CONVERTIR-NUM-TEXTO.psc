@@ -1,5 +1,5 @@
 Algoritmo ConvertirNumeroTexto
-	Imprimir 'Proporciona un numero entre 1 y 3: '
+	Imprimir 'Ingresa un numero entre 1 y 3: '
 	Leer numero_entrada
 	// Analisis del numero a texto
 	Segun numero_entrada Hacer

@@ -1,6 +1,6 @@
 Algoritmo MesEstacionSiNo
 	Definir estacion Como Caracter
-	Escribir 'Proporciona el mes del año (1-12): '
+	Escribir 'Ingresa el mes del año (1-12): '
 	Leer mes
 	Si mes==1 O mes==2 O mes==12 Entonces
 		estacion <- 'Invierno'

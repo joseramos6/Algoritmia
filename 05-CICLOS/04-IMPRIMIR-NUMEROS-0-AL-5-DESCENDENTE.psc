@@ -1,7 +1,7 @@
 Algoritmo CicloMientrasDescendente
-	Imprimir 'Proporcione el valor minimo: '
+	Imprimir 'Ingresa el valor minimo: '
 	Leer minimo
-	Imprimir 'Proporcione el valor inicial: '
+	Imprimir 'Ingresa el valor inicial: '
 	Leer contador 
 	Mientras contador >= minimo Hacer
 		Imprimir contador

@@ -4,7 +4,7 @@ Algoritmo Variables
 	Definir nombre Como Cadena
 	// 2. Asignar un valor
 	mi_numero = 10
-	nombre = 'Carlos Lara'
+	nombre = 'Jose Ramos'
 	// Otra forma de asignar un valor a una variable
 	//mi_numero <- 5
 	// 3. Imprimimos la variable
@@ -16,6 +16,4 @@ Algoritmo Variables
 	Imprimir "Mi nuevo valor es: ", mi_numero
 	Imprimir "Mi nuevo valor es: ", mi_numero
 	Imprimir "Mi nuevo valor es: ", mi_numero
-	
-	
 FinAlgoritmo

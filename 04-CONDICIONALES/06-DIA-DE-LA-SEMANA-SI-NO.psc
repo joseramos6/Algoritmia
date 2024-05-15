@@ -1,5 +1,5 @@
 Algoritmo EjercicioDiaSemana
-	Escribir 'Proporcione el dia de la semana: '
+	Escribir 'Ingresa el dia de la semana: '
 	Leer dia_semana
 	Si dia_semana == 1
 		Imprimir 'Lunes'

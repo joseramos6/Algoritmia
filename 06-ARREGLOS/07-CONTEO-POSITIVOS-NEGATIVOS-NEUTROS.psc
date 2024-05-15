@@ -1,14 +1,14 @@
 Algoritmo ConteoPositivosNegativosNeutros
 	//Algoritmo para contar cuantos valores positivos, negativos y neutros(0)
 	//Pedimos el numero de elementos del arreglo
-	Imprimir 'Proporciona el numero de elementos del arreglo: '
+	Imprimir 'Ingresa el numero de elementos del arreglo: '
 	Leer numero_elementos
 	// Definimos el arreglo
 	Definir arreglo Como Entero
 	Dimension arreglo[numero_elementos]
 	//Pedimos los valores al usuario
 	Para i = 0 Hasta numero_elementos - 1 Hacer
-		Imprimir 'Proporciona el valor ', i + 1, ' del arreglo: '
+		Imprimir 'Ingresa el valor ', i + 1, ' del arreglo: '
 		Leer arreglo[i]
 	FinPara
 	// Contamos cuantos valores son positivos, cuantos negativos y cuantos neutros

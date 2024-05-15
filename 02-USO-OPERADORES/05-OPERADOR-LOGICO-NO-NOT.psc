@@ -20,6 +20,4 @@ Algoritmo OperadoresLogicos
 	c = NO a 
 	Imprimir 'Expresion evaluar: NO ', a
 	Imprimir 'Resultado Operador NO (NOT): ', c
-	
-	
 FinAlgoritmo

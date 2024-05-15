@@ -1,8 +1,8 @@
 Algoritmo CalculoAreaPerimetroRectangulo
 	// 1. Solicitamos los valores al usuario
-	Imprimir 'Proporcione la base del rectangulo: '
+	Imprimir 'Ingrese la base del rectangulo: '
 	Leer base
-	Imprimir 'Proporcione la altura del rectangulo'
+	Imprimir 'Ingrese la altura del rectangulo'
 	Leer altura
 	// 2. Calculo del area del rectangulo
 	area = base * altura

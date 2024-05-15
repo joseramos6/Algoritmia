@@ -6,9 +6,9 @@ FinFuncion
 
 Algoritmo ProgramaPrincipal
 //// Solicitamos los valores de los argumentos
-	Imprimir 'Proporciona el valor del primer argumento: '
+	Imprimir 'Ingresa el valor del primer argumento: '
 	Leer arg_a
-	Imprimir 'Proporciona el valor del segundo argumento: '
+	Imprimir 'Ingresa el valor del segundo argumento: '
 	Leer arg_b
 //// Llamamos a nuestra funcion de sumar
 	resultado = sumar(arg_a, arg_b)

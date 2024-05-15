@@ -1,21 +1,21 @@
 Algoritmo OperadoresAritmeticos
-	// Operadores Aritmeticos
+	// Operadores Aritméticos
 	// Suma +
 	a = 3 + 4
 	imprimir 'Suma: ', a
 	// Resta -
 	b = 6 - 2
 	imprimir 'Resta: ', b
-	// Multiplicacion *
+	// Multiplicación *
 	c = a * 2
-	imprimir 'Multiplicacion: ', c
+	imprimir 'Multiplicación: ', c
 	// Division /
 	d = b / c
-	imprimir 'Division: ', d
+	imprimir 'División: ', d
 	// Potencia ^
 	e = a ^ 2
 	imprimir 'Potencia: ', e
-	// Modulo (residuo division) %
+	// Modulo (residuo división) %
 	f = 9 % 3
-	imprimir 'Division: ', f
+	imprimir 'División: ', f
 FinAlgoritmo

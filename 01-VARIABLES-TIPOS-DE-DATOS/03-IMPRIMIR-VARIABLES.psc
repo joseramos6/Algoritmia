@@ -9,5 +9,4 @@ Algoritmo Variables
 	Imprimir "Mi numero es: ", mi_numero
 	Escribir "Otra forma de mandar informacion a consola"
 	Mostrar "Otra forma de mostrar informacion a consola"
-	
 FinAlgoritmo

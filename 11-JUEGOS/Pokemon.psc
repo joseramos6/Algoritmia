@@ -9,9 +9,9 @@ Proceso POKEMON_AMARILLO_EDITION_PSEINT_2016
 	Dimension nombre[4], enemigo[8];
 	cont=1;
 	win=0;
-	nombre[0]="GUALDO";
-	nombre[1]="ASH";
-	nombre[2]="JAIME";
+	nombre[0]="JOSE";
+	nombre[1]="PEDRO";
+	nombre[2]="ISABEL";
 	
 	enemigo[0]="AZUL";
 	enemigo[1]="GARY";

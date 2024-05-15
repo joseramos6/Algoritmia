@@ -1,5 +1,5 @@
 Algoritmo EstructuraSegunDiaSemana
-	Imprimir 'Proporcione el dia de la semana: '
+	Imprimir 'Ingresa el dia de la semana: '
 	Leer dia_semana
 	//En lugar de SiNo, vamos a trabajar Segun 
 	Segun dia_semana Hacer

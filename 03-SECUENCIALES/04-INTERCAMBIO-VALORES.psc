@@ -1,8 +1,8 @@
 Algoritmo ItercambioValores
 	//1. Solicitamos los valores de entrada
-	Imprimir 'Proporciona el valor de a: '
+	Imprimir 'Ingresa el valor de a: '
 	Leer a
-	Imprimir 'Proporciona el valor de b: '
+	Imprimir 'Ingresa el valor de b: '
 	Leer b
 	//2. Hacer el intercambio de los valores
 	// a = b si hacemos esto se pierde el valor de la variable a

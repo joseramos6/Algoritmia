@@ -1,5 +1,5 @@
 //// Definimos nuestro procedimiento de saludar
-//// No devolvemos ningún valor o información pero si regresa un control
+//// No devolvemos ningÃºn valor o informaciÃ³n pero si regresa un control
 Funcion saludar(mensaje)
 	Imprimir mensaje
 FinFuncion
