@@ -1,6 +1,18 @@
 
 ![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
+### 🚨🔔 ✅ Como 3️⃣ tercer paso vamos a realizar los ejercicios propuestos, en donde van a crear un repositorio en su cuenta de GitHub llamado ALGORITMIA organizado de la siguiente manera: 👨🏻‍💻🚀
+
+🌟 Ejemplo:
+
+✅ Nombre del reporisitorio: **ALGORITMIA**
+
+Creamos una carpeta donde vamos a ubicar los ejercicios solucionados:
+
+- 🗂️ Ciclos
+
+⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻⬇️👨🏻‍💻
+
 ### 🛠 ✅ 🗂️ Ejercicios Ciclos
 
 1 - Realice un algoritmo que solicite una contraseña al usuario de manera repetitiva hasta que el usuario la acierte o falle 3 veces. La contraseña real estará almacenada en una variable del programa. Si el usuario acierta, se mostrará un mensaje de "Acceso permitido", pero si falla 3 veces, se mostrará un mensaje de "Cuenta bloqueada", y el programa finalizará. Cada vez que falle, se mostrará un mensaje en el que se digan los intentos restantes hasta que la cuenta se bloquee.
