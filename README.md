@@ -2,7 +2,7 @@
 
 # Bienvenidos Aprendices! 👋🏻
 
-🧠 Vamos aprender los **fundamentos de la programación** y a desarrollar tu lógica de programación desde cero ✅ recuerda que es un contenido 👨🏻‍💻 educativo ✅ **gratuito** ✅ y es muy importante leer la siguiente ℹ️ información con el objetivo de atender las indicaciones y así desarrollar con éxito el presente material educativo 👨🏻‍💻
+🧠 Vamos aprender los **fundamentos de la programación** y a desarrollar tu lógica de programación desde cero ✅ recuerda que es un contenido 👨🏻‍💻 educativo ✅ **GRATUITO** ✅ y es muy importante leer la siguiente ℹ️ información con el objetivo de atender las indicaciones y así desarrollar con éxito el presente material educativo 👨🏻‍💻
 
 ✅ No necesitas ningún tipo de experiencia ✅
 
@@ -50,6 +50,12 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 - Vectores y matrices
 
+## 🛠 Instalaciones 🛠
+
+✅ Se requiere instalar el siguiente 👨🏻‍💻 programa:
+
+[✅ ⬇️ PSEINT ⬇️ ✅](https://pseint.sourceforge.net/index.php?page=descargas.php)
+
 ## 👨🏻‍💻 Lecciones 📚🧠
 
 ### 🚨🔔 ✅ Como 1️⃣ primer paso vamos a realizar las siguientes lecciones 👨🏻‍💻🚀
@@ -86,7 +92,7 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 - [Nivel 16 🚀 Algoritmia](https://quizizz.com/join?gc=86576100)
 
-## Ejercicios Académicos
+## 👨🏻‍💻 Ejercicios Académicos 👨🏻‍💻
 
 ### 🚨🔔 ✅ Como 2️⃣ segundo paso vamos a realizar los siguientes ejercicios académicos que se encuentran ubicados en la parte superior del presente repositorio 👨🏻‍💻🚀
 
@@ -108,7 +114,7 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 Ejemplo:
 
-Nombre del reporisitorio: ALGORITMIA
+Nombre del reporisitorio: **ALGORITMIA**
 
 Creamos las carpetas donde ubicamos los ejercicios solucionados:
 
@@ -339,12 +345,6 @@ Las mayúsculas, espacios y tildes no se consideran para determinar si es un pal
 ## ✅ Resultados ✅
 
 Al finalizar el presente contenido educativo, tendrás una base sólida de los aspectos fundamentales de la programación y los conceptos de codificación, además de saber solucionar cualquier problema de programación, gracias a la lógica de programación desarrollada.
-
-## 🛠 Instalaciones 🛠
-
-Se requieren los siguientes programas:
-
-[PSEINT](https://pseint.sourceforge.net/index.php?page=descargas.php)
 
 ## Instructor
 
