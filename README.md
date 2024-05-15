@@ -64,7 +64,7 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 ### 🚨🔔 ✅ Como 1️⃣ primer paso vamos a realizar las siguientes lecciones que se encuentra ubicado en la carpeta 👨🏻‍💻🚀
 
-- [🗂️ 00 - Lecciones](https://github.com/joseramos6/Algoritmia/tree/main/00-LECCIONES)
+- [🗂️ 00 - LECCIONES](https://github.com/joseramos6/Algoritmia/tree/main/00-LECCIONES)
 
 ## 👨🏻‍💻 Ejercicios Académicos 👨🏻‍💻
 
