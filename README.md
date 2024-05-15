@@ -2,13 +2,17 @@
 
 # Bienvenidos Aprendices! 👋🏻
 
-🧠 Vamos aprender los **fundamentos de la programación** y a desarrollar tu lógica de programación desde cero ✅ recuerda que es un contenido 👨🏻‍💻 educativo ✅ **GRATUITO** ✅ y es muy importante leer la siguiente ℹ️ información con el objetivo de atender las indicaciones y así desarrollar con éxito el presente material educativo 👨🏻‍💻
+🧠 Vamos aprender los **fundamentos de la programación** y a desarrollar tu lógica de programación desde cero ✅
+
+Recuerda que es un contenido 👨🏻‍💻 educativo ✅ **GRATUITO** ✅ y es muy importante leer la siguiente ℹ️ información con el objetivo de atender las indicaciones y así desarrollar con éxito el presente material educativo 👨🏻‍💻
 
 ✅ No necesitas ningún tipo de experiencia ✅
 
-# 👨🏻‍💻 Algoritmia 👨🏻‍💻
+# 👨🏻‍💻 Competencia de Algoritmia 👨🏻‍💻
 
-Los fundamentos y la lógica de programación son cruciales para comenzar tu carrera como desarrollador. **Un conocimiento sólido de los fundamentos de la programación será de gran utilidad para aprender cualquier lenguaje de programación,** y una buena lógica de programación servirá para abordar cualquier problema de forma adecuado, resolviéndolo de una forma clara, comprensiva y eficiente.
+Los fundamentos y la lógica de programación son cruciales para comenzar tu carrera como desarrollador.
+
+✅ **Un conocimiento 🧠 sólido de los fundamentos de la programación será de gran utilidad para aprender cualquier lenguaje de programación,** y una buena lógica de programación servirá para abordar cualquier problema de forma adecuado, resolviéndolo de una forma clara, comprensiva y eficiente.
 
 ## 🛠 Competencias a desarrollar 👨🏻‍💻
 
@@ -346,6 +350,6 @@ Las mayúsculas, espacios y tildes no se consideran para determinar si es un pal
 
 Al finalizar el presente contenido educativo, tendrás una base sólida de los aspectos fundamentales de la programación y los conceptos de codificación, además de saber solucionar cualquier problema de programación, gracias a la lógica de programación desarrollada.
 
-## Instructor
+## 👨🏻‍💻 Instructor 👨🏻‍💻
 
 ![Logo](https://avatars.githubusercontent.com/u/81438413?s=48&v=4) [@joseramos6](https://github.com/joseramos6)
