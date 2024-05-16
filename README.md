@@ -88,7 +88,7 @@ Los fundamentos y la lógica de programación son cruciales para comenzar tu car
 
 🌟 Ejemplo:
 
-✅ Nombre del reporisitorio: **ALGORITMIA**
+✅ Nombre del repositorio: **ALGORITMIA**
 
 Creamos las carpetas donde vamos a ubicar los ejercicios solucionados:
 
