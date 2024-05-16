@@ -35,3 +35,7 @@
 - [Nivel 15 🚀 Algoritmia](https://quizizz.com/join?gc=85514138)
 
 - [Nivel 16 🚀 Algoritmia](https://quizizz.com/join?gc=86576100)
+
+## 👨🏻‍💻 Instructor 👨🏻‍💻
+
+![Logo](https://avatars.githubusercontent.com/u/81438413?s=48&v=4) [@joseramos6](https://github.com/joseramos6)
