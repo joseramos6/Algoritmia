@@ -1,4 +1,4 @@
-![Logo](https://yt3.googleusercontent.com/32hnlXfQnfCFH5IK4SsvCtRDb5A3tDsRdFUjsPPIXbyt5jCmL1ZWE6NEjM7OPEs2EdZTKqueAA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![Logo](https://yt3.googleusercontent.com/kSVIE_raRRqFNdoUD3Dpbh6zJyimWyYDVMJsUyTczph6nIfJfhQx_E4_KBCLXaPLy5ShhtOE=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 # Bienvenidos Aprendices! 👋🏻
 
